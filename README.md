@@ -8,13 +8,13 @@ Customer Support Ticket Analyzer
 
 Problem Statement
 
-Support teams deal with a large number of tickets every day, and going through all of them by hand to spot
+Support teams deal with a large number of tickets every day, and going through all of them by hand to spot patterns or
 
-patterns or problem areas takes a lot of time. This project builds a small Python program that stores ticket
+problem areas takes a lot of time. This project builds a small Python program that stores ticket data, cleans up the 
 
-data, cleans up the free-text issue descriptions, and pulls out a few useful insights - things like how many 
+free-text issue descriptions, and pulls out a few useful insights - things like how many tickets are high priority, 
 
-tickets are high priority, which words show up most often,and which complaint is the longest.
+which words show up most often,and which complaint is the longest.
 
 What This Project Does
 
