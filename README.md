@@ -33,11 +33,13 @@ swaps a few shorthand words (like "ok" to "okay
 ●Searches the cleaned text for keywords such as "poor", "good", "slow" and "excellent", and counts how many tickets
 
 mention each one.
+
 ●Puts together a final summary - priority breakdown, the longest complaint, and the full list of unique words used 
 
 across all tickets.
 
 Files in This Repository
+
 ●ticket_analyzer.py - the Python script with all five steps.
 
 ●Customer_Support_Ticket_Analyzer.ipynb - the same project as a Google Colab / Jupyter notebook.
@@ -47,6 +49,7 @@ Files in This Repository
 How to Run It
 
 Option 1: Google Colab
+
 Upload Customer_Support_Ticket_Analyzer.ipynb to Google Colab (or open it from Google Drive) 
 
 and run the cells from top to bottom. The cell for adding new tickets is commented out by default
